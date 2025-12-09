@@ -67,11 +67,11 @@ Provided academic support to undergraduate law students in foundational subjects
 
 **Publications**
 
-Oshio, K. (2025). EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution. In Proceedings of the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025), Turin, Italy. https://ebooks.iospress.nl/volumearticle/76914
+Oshio, K. (2025). EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution. In Proceedings of the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025), Turin, Italy. pp.337-343. https://doi.org/10.3233/FAIA251607
 
 Oshio, K. (2025). Towards human-centered legal AI: Designing a facilitative mediation agent integrating tacit knowledge and multimodal dialogue cues. In Proceedings of the ICAIL 2025 Doctoral Consortium at the 20th International Conference on Artificial Intelligence and Law, Chicago, IL, United States.
 
-Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalities and emotional complexities, and research of social implementation in Japan. In Proceedings of the 37th International Conference on Legal Knowledge and Information Systems (JURIX 2024), Brno, Czech Republic. https://doi.org/10.3233/FAIA241264
+Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalities and emotional complexities, and research of social implementation in Japan. In Proceedings of the 37th International Conference on Legal Knowledge and Information Systems (JURIX 2024), Brno, Czech Republic. pp.333-337. https://doi.org/10.3233/FAIA241264
 
 **Research Funding (Competitive Grants)**
 
