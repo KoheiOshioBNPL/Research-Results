@@ -1,5 +1,5 @@
 # Research-Results
-研究成果まとめ(2025年10月31日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります.
+研究成果まとめ(2025年12月9日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background. I treat funded research as a responsibility: define scope, meet timelines, conduct rigorous evaluation, and produce reusable documentation; disseminate results via peer-reviewed publications and conference presentations (domestic & international); and develop durable networks with academic researchers and legal practitioners (lawyers, judges, mediators). Methods and tools were subsequently operationalized in engineering practice. Supported by FRCDR (Grants 03-480, 02-461) and FOST (2023/03–2024/02).
 
