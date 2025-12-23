@@ -1,5 +1,5 @@
 # Research-Results
-研究成果まとめ(2025年12月9日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります.
+研究成果まとめ(2025年12月24日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background. I treat funded research as a responsibility: define scope, meet timelines, conduct rigorous evaluation, and produce reusable documentation; disseminate results via peer-reviewed publications and conference presentations (domestic & international); and develop durable networks with academic researchers and legal practitioners (lawyers, judges, mediators). Methods and tools were subsequently operationalized in engineering practice. Supported by FRCDR (Grants 03-480, 02-461) and FOST (2023/03–2024/02).
 
@@ -95,11 +95,11 @@ Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalitie
 
 **行ったことがある国・行ってみたい国**
 
-行ったことがある: フィリピン, アメリカ, 韓国, デンマーク, ポルトガル, プエルトリコ, スウェーデン, チェコ, オーストリア, ドイツ
+行ったことがある: フィリピン, アメリカ, 韓国, デンマーク, ポルトガル, プエルトリコ, スウェーデン, チェコ, オーストリア, ドイツ, イタリア
 
 お土産: ドライマンゴー(フィリピン), 韓国海苔・ゆず茶(韓国), オイルサーディン・ポートワイン・マデイラワイン・アソーレスの紅茶・ジンジーニャ・フィリグラーナ・アズレージョ・ガロ・コルク製品(ポルトガル), バカルディ・ラム, コキーグッズ, プエルトルコ産コーヒー(プエルトリコ), ダーラホース, アンナのジンジャービスケット, グスタフスベリ, Kavli BaconOst, Den Gamle Fabrik Apelsin マーマレード, 木製バターナイフ(スウェーデン), Kolonádaウエハース, チェコワイン, クルテクグッズ(チェコ)
 
-(今のところ)行ってみたい: イタリア, ハンガリー, ルーマニア, ルクセンブルク, エストニア, ウズベキスタン, トルクメニスタン
+(今のところ)行ってみたい: オランダ, スペイン, ハンガリー, ルーマニア, ルクセンブルク, エストニア, ウズベキスタン, トルクメニスタン
 
 「行け」とChatGTPが言っている: リュブリャナ(スロベニア), ペーチ(ハンガリー), ヴロツワフ(ポーランド), クルジュ＝ナポカ(ルーマニア), カウナス(リトアニア), バーリ・ジェノバ(イタリア), ログローリョ(スペイン)
 
