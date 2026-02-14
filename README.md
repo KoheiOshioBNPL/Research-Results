@@ -1,5 +1,5 @@
 # Research-Results
-研究成果まとめ(2025年12月24日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります.
+研究成果まとめ(2026年2月15日現在). 製麺機とピザ窯が欲しい. 12ヶ月で4本のプロダクトを作れるように頑張ります. まもなく大学メールアドレスが使えなくなります.
 
 **About me.** I’m a PhD candidate in Information & Communication (degree expected) with an LL.M. background. I treat funded research as a responsibility: define scope, meet timelines, conduct rigorous evaluation, and produce reusable documentation; disseminate results via peer-reviewed publications and conference presentations (domestic & international); and develop durable networks with academic researchers and legal practitioners (lawyers, judges, mediators). Methods and tools were subsequently operationalized in engineering practice. Supported by FRCDR (Grants 03-480, 02-461) and FOST (2023/03–2024/02).
 
@@ -12,6 +12,8 @@ From April 2026 I will join Net Protections, Japan’s leading BNPL(Buy Now Pay 
 **Education**
 
 [3] 2023年4月-現在 明治大学大学院 [情報コミュニケーション研究科 情報コミュニケーション学専攻](https://www.meiji.ac.jp/dai_in/infocom/index.html) 博士後期課程在籍
+
+明治大学時代の論文は[明治大学学術成果リポジトリ](https://meiji.repo.nii.ac.jp/search?page=1&size=20&sort=custom_sort&search_type=0&q=&creator=大塩,%20浩平)にまとめられています.
 
 Ph.D. Candidate in Information and Communication
 
@@ -69,7 +71,7 @@ Provided academic support to undergraduate law students in foundational subjects
 
 Oshio, K. (2025). EmoLawConnect: An AI-powered Matching Engine for Professionals Supporting Family Conflict Resolution. In Proceedings of the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025), Turin, Italy. pp.337-343. https://doi.org/10.3233/FAIA251607
 
-Oshio, K. (2025). Towards human-centered legal AI: Designing a facilitative mediation agent integrating tacit knowledge and multimodal dialogue cues. In Proceedings of the ICAIL 2025 Doctoral Consortium at the 20th International Conference on Artificial Intelligence and Law, Chicago, IL, United States.
+Oshio, K. (2025). Towards human-centered legal AI: Designing a facilitative mediation agent integrating tacit knowledge and multimodal dialogue cues. In the ICAIL 2025 Doctoral Consortium at the 20th International Conference on Artificial Intelligence and Law, Chicago, IL, United States. [URL](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf)
 
 Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalities and emotional complexities, and research of social implementation in Japan. In Proceedings of the 37th International Conference on Legal Knowledge and Information Systems (JURIX 2024), Brno, Czech Republic. pp.333-337. https://doi.org/10.3233/FAIA241264
 
@@ -97,11 +99,11 @@ Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalitie
 
 行ったことがある: フィリピン, アメリカ, 韓国, デンマーク, ポルトガル, プエルトリコ, スウェーデン, チェコ, オーストリア, ドイツ, イタリア
 
-お土産: ドライマンゴー(フィリピン), 韓国海苔・ゆず茶(韓国), オイルサーディン・ポートワイン・マデイラワイン・アソーレスの紅茶・ジンジーニャ・フィリグラーナ・アズレージョ・ガロ・コルク製品(ポルトガル), バカルディ・ラム, コキーグッズ, プエルトルコ産コーヒー(プエルトリコ), ダーラホース, アンナのジンジャービスケット, グスタフスベリ, Kavli BaconOst, Den Gamle Fabrik Apelsin マーマレード, 木製バターナイフ(スウェーデン), Kolonádaウエハース, チェコワイン, クルテクグッズ(チェコ)
+おすすめ土産: ポートワイン・マデイラワイン・アソーレスの紅茶・フィリグラーナ・アズレージョ・ガロ(ポルトガル), バカルディ・ラム, コーヒー, コキーグッズ(プエルトリコ), アンナのジンジャービスケット, グスタフスベリ, Kavli BaconOst, Den Gamle Fabrik Apelsin マーマレード, 木製バターナイフ, ダーラホース(スウェーデン), Kolonádaウエハース, チェコワイン, クルテクグッズ(チェコ), オリーブオイル, ジャンドゥーヤ, 乾燥ポルチーニ, グリッシーニ, バルサミコ酢, バローロワイン(イタリア：トリノ)
 
 (今のところ)行ってみたい: オランダ, スペイン, ハンガリー, ルーマニア, ルクセンブルク, エストニア, ウズベキスタン, トルクメニスタン
 
-「行け」とChatGTPが言っている: リュブリャナ(スロベニア), ペーチ(ハンガリー), ヴロツワフ(ポーランド), クルジュ＝ナポカ(ルーマニア), カウナス(リトアニア), バーリ・ジェノバ(イタリア), ログローリョ(スペイン)
+穴場: リュブリャナ(スロベニア), ペーチ(ハンガリー), ヴロツワフ(ポーランド), クルジュ＝ナポカ(ルーマニア), カウナス(リトアニア), バーリ・ジェノバ(イタリア), ログローリョ(スペイン), カルロヴィ・ヴァリ(チェコ)
 
 **🍝 最高にうまいナポリタン([引用](https://mesisoku.blog.jp/archives/1203351.html))**
 
@@ -165,40 +167,18 @@ Oshio, K. (2024). Legal-Emotional BATNA: AI chatbot addressing divorce legalitie
 
 「色・音・香り・粘度・返しやすさ」でケチャップ炒めの完成度を見極める
 
-**著書・論文**
+**著書(翻訳)**
 
-[11] (accepted) Kohei OSHIO(2025) EmoLawConnect: An AI-powered matching engine for professionals supporting family conflict resolution The 38th International Conference on Legal Knowledge and Information Systems, University of Turin, Italy.
-
-[10] 大塩浩平(2025) [Legal-Emotional BATNA: 離婚の法的側面と感情的複雑さに対応するAIチャットボット開発と日本における社会実装の研究](https://meiji.repo.nii.ac.jp/records/2001951) 明治大学大学院情報コミュニケーション研究論集(25) 1-21頁. 査読あり.
-
-[9] Kohei Oshio(2025) [Towards Human-Centered Legal AI: Designing a Facilitative Mediation Agent Integrating Tacit Knowledge and Multimodal Dialogue Cues](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/8101/files/2025/06/ICAIL25_DC_Kohei-Oshio-_final-1.pdf) ICAIL2025(The 20th International Conference on Artificial Intelligence and Law) [ICAIL 2025 Doctoral Consortium](https://sites.northwestern.edu/icail2025/workshops/), Chicago at Northwestern University, June 20. 査読あり. 2025年6月時点のCV(履歴書)つき.
-
-[8] 大塩浩平(2025) Meiji Opacのウェブデザイン課題と改善に向けて：ユーザビリティからの分析 明治大学図書館紀要「図書の譜」(29) 23-30頁. 査読なし.
-
-[7] 大塩浩平(2025) [法律実務家との協働による対話促進型調停支援チャットボットの設計プロセス](pdfs/CIS2025_3C-4.pdf) 情報コミュニケーション学会第22回全国大会議事録. 発表番号3C-4. 2025年3月1日-2日. 116-119頁. 査読なし.
-
-[6] 大塩浩平(2025) [生成AIは法的コミュニケーションを強化するか:調停離婚向けチャットボット開発に着目して](https://meiji.repo.nii.ac.jp/records/2001433) 明治大学大学院情報コミュニケーション研究論集(24) 20-40頁. 査読あり.
-
-[5] Kohei OSHIO(2024) [Legal-Emotional BATNA: AI Chatbot Addressing Divorce Legalities and Emotional Complexities, and Research of Social Implementation in Japan](https://ebooks.iospress.nl/doi/10.3233/FAIA241264) proceedings of JURIX 2024: The Thirty-seventh Annual Conference, Brno at Faculty of Law, Masaryk University, Czech Republic, 11-13 December 2024, pp.333-337. doi:10.3233/FAIA241264. 査読あり. 長文論文(Long papers)の採択率は23％(21件/90件), 全体(Long papers+Short papers(17件))では42％(38件/90件).
-
-[4] ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
+・ローレンス・レペタ著 太田勝造監訳 大塩浩平・堀口愛芽紗訳(2024) [『日本人の良心の囚人』の執筆について](https://www.shinzansha.co.jp/book/b10079972.html) 信山社．
 
 <p align="center">
 <img src="images/book2.jpg" alt="Book2" width="300">
 </p>
 
-[3] コリン・シール著 太田勝造監訳 堀口愛芽紗=大塩浩平共訳(2023) [法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) 弘文堂.
+・コリン・シール著 太田勝造監訳 堀口愛芽紗=大塩浩平共訳(2023) [法教育の教え方と学び方―クリティカル・シンキングのすすめ](https://www.koubundou.co.jp/book/b10036613.html) 弘文堂.
 
 <p align="center">
 <img src="images/book1.jpg" alt="Book1" width="300">
-</p>
-
-[2] 大塩浩平(2023) [古代東アジアにおける法制度継受現象の数理進化理論的考察 ー律令制の日本伝来に関してー](https://meiji.repo.nii.ac.jp/records/17408) 明治大学大学院法学研究論集(58) 151-172頁. 査読あり.
-
-[1] 大塩浩平(2022) [行動ファイナンス的アプローチによるミーム銘柄の法的規制に関する研究](https://meiji.repo.nii.ac.jp/records/10780) 明治大学大学院法学研究論集(57) 79-101頁. 査読あり.
-
-<p align="center">
-<img src="images/pic2.png" alt="Image2" width="350">
 </p>
 
 **研究費獲得**
